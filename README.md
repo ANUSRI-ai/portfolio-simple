@@ -8,7 +8,13 @@ Pages
 Technologies Used
 
         HTML: Used to structure the content and create the pages.
-        CSS: Used for styling the layout and making the website visually appealing.
+        CSS: Used for styling the layout and making the website visually appealing
+        
+How to use
+
+        Open the [Link] file using your preferred web browser (e.g., Chrome, Firefox, etc.).
+
+        
 
 
 
